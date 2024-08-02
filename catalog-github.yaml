@@ -5,7 +5,7 @@ metadata:
   tags:
     - auto-generated
   annotations:
-    backstage.io/source-location: url:
+    backstage.io/source-location: url:https://github.com/ajinkya-harness/test/blob/
 spec:
   type: service
   lifecycle: experimental
