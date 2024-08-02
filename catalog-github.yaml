@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: githubtest
+  tags:
+    - auto-generated
+  annotations:
+    backstage.io/source-location: url:
+spec:
+  type: service
+  lifecycle: experimental
+  owner: Harness_Account_All_Users
+  system: hyperworkspace
